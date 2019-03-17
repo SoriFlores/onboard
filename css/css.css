@@ -1,0 +1,15 @@
+.h-slider{
+    height: 60vh;
+}
+
+.h-slider *{
+    height: 100%;
+}
+
+.h-slider .carousel-caption, .h-slider img {
+    height: auto;
+}
+
+.h5 p {
+    align-content: center;
+    }
